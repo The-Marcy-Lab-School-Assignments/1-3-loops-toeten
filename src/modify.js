@@ -1,3 +1,4 @@
+/** FEEDBACK: Before submitting, ensure all commented out code is removed! */
 const whileToFor = () => {
   for (let i = 0; i < 5; i++) {
     console.log(i)
